@@ -1,0 +1,25 @@
+{
+	"name": "BigNumber-d-ts",
+	"version": "1.0.0",
+	"homepage": "https://github.com/andraaspar/BigNumber-d-ts",
+	"authors": [
+		"András Parditka"
+	],
+	"description": "TypeScript definitions for BigNumber.",
+	"keywords": [
+		"TypeScript",
+		"definitions",
+		"Node.js"
+	],
+	"license": "MIT",
+	"ignore": [
+		"**/.*",
+		"build",
+		"lib",
+		"node_modules",
+		"bower_components",
+		"test",
+		"Gruntfile.js",
+		"package.json"
+	]
+}
